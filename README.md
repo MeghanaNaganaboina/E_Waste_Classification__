@@ -1,6 +1,6 @@
 # E-Waste Classification Project
 Image classification project for identifying electronic waste using EfficientNetV2B0 and deep learning.
-# E-Waste Classification Project
+
 
 This project classifies e-waste images using EfficientNetV2B0 and transfer learning. The model is trained on 10 categories like Battery, Mobile, Mouse, Keyboard, etc.
 
