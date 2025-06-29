@@ -1,4 +1,4 @@
-# Week-2
+# E-Waste Classification Project
 Image classification project for identifying electronic waste using EfficientNetV2B0 and deep learning.
 # E-Waste Classification Project
 
